@@ -2,16 +2,13 @@
 
 - [My Personal Website](https://jksntn.my.id)
 
-## Documents and links
+## Credits & Thanks
+-  See [Credits page](https://jekyll-garden.github.io/credits)
 -  [Demo website](https://jekyll-garden.github.io/)
 -  [Personal Website](https://hiran.in/)
 -  [Feature List](https://jekyll-garden.github.io/post/features)
--  [How to Setup](https://jekyll-garden.github.io/post/how-to)
 
-## Credits & Thanks
--  See [Credits page](https://jekyll-garden.github.io/credits)
-
-## Contribution
+## Installation
 
 To set up your environment to develop this theme, run `bundle install` after cloning this repository in your local machine.
 
