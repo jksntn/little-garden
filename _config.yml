@@ -29,6 +29,7 @@ baseurl: ""
 # If you are deleting this, make sure you remove it from HTML files too 
 heading: jksntn # Change this 
 content: Personal Website of Jaka Santana
+description: Saya adalah seorang bapak-bapak yang mulai doyan kopi item
 copyright:  
   year: © 2023
   msg: Contents under CC-BY-NC 
@@ -62,6 +63,7 @@ plugins:
   - jekyll-feed 
   - jekyll-sitemap 
   - jekyll-tidy
+  - jekyll-seo-tag
     
 ## Enable Collections
 ## Suggested collects are "notes" "lists" and "blog"
