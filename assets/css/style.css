@@ -308,6 +308,11 @@ ul ul {
     border-bottom: 1px solid var(--color-border-light);
 }
 
+.grid-2 {
+    color: var(--color-text-main);
+    display: block;
+}
+
 .notelist-feed:hover {
     color: var(--color-text-main);
     display: block;

@@ -12,19 +12,19 @@ Mengapa harus dipindahin sih? Karena saya mungkin tidak membeli eBook hanya di s
 
 Cara download ebook kamu dari Store seperti Kobo dan Google Play Books sangatlah mudah. Kamu tinggal masuk ke dalam Library kamu di web, dan kemudian download bukunya. Tapi engga bisa langsung dibaca begitu saja, karena harus didownload dulu menggunakan [Adobe Digital Editions](https://www.adobe.com/solutions/ebook/digital-editions/download.html). (Tenang saja, adobe digital editions ini gratis kok).
 
-[![Download file .acsm di Kobo](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-001.jpg)](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-001.jpg)
+![](/assets/img/drm-ke-ebook-001.jpg)
 
 Download file .acsm di Kobo
 
 Buka Kobo, pilih my books. Pada halaman ini, Pilih Download ebook yang mau didownload. Nanti bakal ada file .acsm, filenya kecil sekitar 2kb. File tersebut hanya link saja. Nanti bukunya akan didownload menggunakan Adobe Digital Editions.
 
-[![Download file .acsm di Google Play](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-002.jpg)](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-002.jpg)
+![](/assets/img/drm-ke-ebook-002.jpg)
 
 Download file .acsm di Google Play
 
 Untuk di Google Play Books juga sama, masuk ke My Books, kemudian pilih Download EPUB. nanti akan kedownload file .acsm nya. Dibuka menggunakan Adobe Digital Editions.
 
-[![Adobe Digital Editions ini Gratis lho ya.](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-003.jpg)](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-003.jpg)
+![](/assets/img/drm-ke-ebook-003.jpg)
 
 Adobe Digital Editions ini Gratis lho ya.
 
@@ -38,7 +38,7 @@ Saya pernah melakukan kesalahan ini ketika pembelian buku di Google Play Books s
 
 Pada tahapan ini, sebenarnya tinggal copas file saja (untuk eBook Reader Android).
 
-[![Supaya tau lokasi file .epub nya.](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-004.jpg)](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-004.jpg)
+![](/assets/img/drm-ke-ebook-004.jpg)
 
 Supaya tau lokasi file .epub nya.
 
@@ -46,7 +46,7 @@ Setelah itu tinggal copas saja ke storage Smartphone Android kamu.
 
 Nah, untuk eBook Reader yang saya gunakan adalah [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader). Karena bisa buka adobe ID di eBook reader ini.
 
-[![Tampilan PocketBook Reader](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-005.jpg)](https://jksntn.my.id/2020/03/cara-transfer-ebook-drm/drm-ke-ebook-005.jpg)
+![](/assets/img/drm-ke-ebook-005.jpg)
 
 Tampilan PocketBook Reader
 

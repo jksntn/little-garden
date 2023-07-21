@@ -18,29 +18,27 @@ Buat yang merasa vpn mahal (dan emang mahal 🙈), kamu bisa membeli vpn [namech
 
 Store seperti [Kobo.com](https://kobo.com/), tidak perlu menggunakan VPN untuk pindah store, namun cukup pindah store saja. Kalau saya sih pindah store ke India. Harganya beda banget sama store yang global!
 
-[![Ini harga globalnya di Kobo, kalo dirupiahin sekitar Rp.216.000 an. Mahal beut. Mending beli buku fisiknya aja!](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-001.jpg)](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-001.jpg)
+![](/assets/img/ebook-setengah-harga-001.jpg)
 
 Ini harga globalnya di Kobo, kalo dirupiahin sekitar Rp.216.000 an. Mahal beut. Mending beli buku fisiknya aja!
 
-[![Ini Harga di Kobo Store India, kalo dirupiahin, harganya jadi Rp.70.000 an 🙈. Gila ya?](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-002.jpg)](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-002.jpg)
+![](/assets/img/ebook-setengah-harga-002.jpg)
 
 Ini Harga di Kobo Store India, kalo dirupiahin, harganya jadi Rp.70.000 an 🙈. Gila ya?
 
 Untuk [Google Play Store](https://play.google.com/store/books), kamu harus menggunakan vpn untuk pindah regional. Dalam hal ini saya pindah ke regional India. Setelah itu pada menu play store, akan ada pilihan untuk pindah negara. Setelah itu akan diminta konfirmasi pembayaran, usahakan ada saldo di Jeniusnya ya, karena akan terpotong beberapa rupiah saja. Selanjutnya semua harga akan berubah ke India.
 
-Warning
-
-Harap diingat! Perubahan ini hanya bisa dilakukan 1 tahun sekali. Artinya setelah pindah ke store India, kamu baru bisa pindah store negara lain (misalnya kembali ke Indonesia) setelah satu tahun berjalan.
+**Warning!** Harap diingat! Perubahan ini hanya bisa dilakukan 1 tahun sekali. Artinya setelah pindah ke store India, kamu baru bisa pindah store negara lain (misalnya kembali ke Indonesia) setelah satu tahun berjalan.
 
 Apa kerugian dari pindah Regional store? Akan banyak ebook atau aplikasi lokal yang tidak ada di store luar. Makanya apabila ragu, gunakan akun google yang lain, bukan yang utama. Saya sendiri karena tujuannya hanya untuk membeli buku luar, jadi menggunakan akun google lain (secondary) untuk pindah regional storenya.
 
 Harga ebook di google play ternyata lebih murah ketimbang harga di Kobo.com. 🙈🙈🙈
 
-[![Harga di store Indonesia, mending beli versi Buku Fisiknya aja.](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-003.jpg)](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-003.jpg)
+![](/assets/img/ebook-setengah-harga-003.jpg)
 
 Harga di store Indonesia, mending beli versi Buku Fisiknya aja.
 
-[![Harga di Google Store India, cuman Rp27rb!!! 🙈](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-004.jpg)](https://jksntn.my.id/2020/03/membeli-ebook-setengah-harga/ebook-setengah-harga-004.jpg)
+![](/assets/img/ebook-setengah-harga-004.jpg)
 
 Harga di Google Store India, cuman Rp27rb!!! 🙈
 
