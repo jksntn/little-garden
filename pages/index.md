@@ -5,4 +5,5 @@
 layout: Post
 permalink: /
 title: Bapak-Bapak Fulltimer
+description: Saya adalah seorang bapak-bapak yang mulai doyan kopi item
 ---

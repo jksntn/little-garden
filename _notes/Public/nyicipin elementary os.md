@@ -2,6 +2,8 @@
 title : Nyicipin Elementary OS
 feed: show
 date : 28-04-2023
+description: Pengalaman nyobain Elementary OS 7
+image: /assets/img/elementaryos.jpeg
 ---
 
 <img class="double" src="/assets/img/elementaryos.jpeg" />
