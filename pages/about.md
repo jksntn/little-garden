@@ -23,7 +23,7 @@ feedformat: row
     </div>
     <div class=".grid-2">
         <h6>Portrait</h6>
-        <img src="/assets/img/Personal.jpg" />
+        <img src="/assets/img/avatar2001.jpg" />
     </div>
 </div>
         
