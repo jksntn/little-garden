@@ -4,17 +4,19 @@ feed: show
 date : 21-03-2020
 ---
 
-Cara membeli eBook dengan harga lebih murah ini mungkin sebenarnya udah banyak yang tau, tapi mumpung saya lagi rajin nulis lagi, sekalian aja saya kasi tipsnya buat yang belum tau.
+Supaya bisa membeli ebook setengah harga ini ada beberapa hal yang harus disiapkan, di antaranya:
 
-Tapi supaya berhasil, ada beberapa hal yang harus dilakukan atau disiapkan, di antaranya:
-
-1.  VPN (bisa pindah negara, terutama negara seperti Turki, Kolombia, dan India)
+1.  VPN (supaya bisa pindah ke negara dengan pricing yang paling murah)
 2.  Kartu Kredit (Saya menggunakan Jenius)
 3.  Data Pembeli untuk billing (sesuai negara store yang bersangkutan)
 
-Kunci utama bisa murah adalah kamu musti pindah regionalnya. Untuk kasus ini saya pindah ke India dan harga ebooknya kurang lebih 50% lebih murah dibandingkan di Regional Indonesia. Ada yang bilang regional Turki yang paling murah. Tapi kebetulan vpn saya engga bisa ke Turki.
+Triknya supaya bisa beli dengan harga yang lebih murah adalah 'pindah negara' dengan vpn supaya store bukunya menyesuaikan dengan kurs di negara tersebut. 
 
-Buat yang merasa vpn mahal (dan emang mahal 🙈), kamu bisa membeli vpn [namecheap.com](https://www.namecheap.com/vpn/) untuk bulan pertama seharga Rp.40rb. Digunakan untuk pindah store pertama kali. Untuk di Google dan Amazon. Apabila sudah pindah store, sebenarnya udah ga usah pake vpn lagi. Dan usahakan jangan menggunakan vpn saat transaksi menggunakan kartu kredit Indonesia. Bisa-bisa gagal transaksi (seperti yang terjadi pada saya saat di Amazon).
+Biasanya saya menggunakan negara Turki atau India dan Colombia supaya bisa mendapatkan kurs harga yang lebih murah.
+
+Buat yang merasa vpn mahal (dan emang mahal 🙈), kamu bisa membeli vpn [namecheap.com](https://www.namecheap.com/vpn/) untuk bulan pertama seharga Rp.40rb. Digunakan untuk pindah store pertama kali. Untuk di Google dan Amazon. 
+
+Apabila sudah pindah store, sebenarnya udah ga usah pake vpn lagi. Dan usahakan jangan menggunakan vpn saat transaksi menggunakan kartu kredit Indonesia. Bisa-bisa gagal transaksi (seperti yang terjadi pada saya saat di Amazon).
 
 Store seperti [Kobo.com](https://kobo.com/), tidak perlu menggunakan VPN untuk pindah store, namun cukup pindah store saja. Kalau saya sih pindah store ke India. Harganya beda banget sama store yang global!
 
@@ -26,9 +28,11 @@ Ini harga globalnya di Kobo, kalo dirupiahin sekitar Rp.216.000 an. Mahal beut. 
 
 Ini Harga di Kobo Store India, kalo dirupiahin, harganya jadi Rp.70.000 an 🙈. Gila ya?
 
-Untuk [Google Play Store](https://play.google.com/store/books), kamu harus menggunakan vpn untuk pindah regional. Dalam hal ini saya pindah ke regional India. Setelah itu pada menu play store, akan ada pilihan untuk pindah negara. Setelah itu akan diminta konfirmasi pembayaran, usahakan ada saldo di Jeniusnya ya, karena akan terpotong beberapa rupiah saja. Selanjutnya semua harga akan berubah ke India.
+Untuk [Google Play Store](https://play.google.com/store/books), kamu harus menggunakan vpn untuk pindah regional. Dalam hal ini saya pindah ke regional India. 
 
-**Warning!** Harap diingat! Perubahan ini hanya bisa dilakukan 1 tahun sekali. Artinya setelah pindah ke store India, kamu baru bisa pindah store negara lain (misalnya kembali ke Indonesia) setelah satu tahun berjalan.
+Setelah itu pada menu play store, akan ada pilihan untuk pindah negara. Setelah itu akan diminta konfirmasi pembayaran, usahakan ada saldo di Jeniusnya ya, karena akan terpotong beberapa rupiah saja. Selanjutnya semua harga akan berubah ke India.
+
+**CATATAN** Harap diingat! Perubahan ini hanya bisa dilakukan 1 tahun sekali. Artinya setelah pindah ke store India, kamu baru bisa pindah store negara lain (misalnya kembali ke Indonesia) setelah satu tahun berjalan.
 
 Apa kerugian dari pindah Regional store? Akan banyak ebook atau aplikasi lokal yang tidak ada di store luar. Makanya apabila ragu, gunakan akun google yang lain, bukan yang utama. Saya sendiri karena tujuannya hanya untuk membeli buku luar, jadi menggunakan akun google lain (secondary) untuk pindah regional storenya.
 
