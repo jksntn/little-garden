@@ -2,7 +2,6 @@
 layout: Post
 permalink: /about
 title: All About Me
-feedformat: row
 ---
 
 <div class="related-wrapper">

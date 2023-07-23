@@ -259,6 +259,14 @@ main {
     grid-gap: 1rem 2rem;
 }
 
+.related-32 {
+    column-count: 2 !important;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 1rem 2rem;
+    margin-bottom: 50px;
+}
+
 .related-group {
     width: 95% !important;
     height: 100%;
