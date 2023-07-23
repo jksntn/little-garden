@@ -105,14 +105,11 @@
                 <div class="jumbo">{{page.title}}</div>
                     {%- include Content.html -%}
                     {% for post in site.posts %}
-                    <div class="related-wrapper">
-                        <div class="notelist-feed">
+                    <div class="project-wrapper">
+                        <div class="project-feed">
                             <a href="{{ site.baseurl }}{{post.url}}">
                                 <img src="{{ post.thumbnail }}" width="600" height="450">
                                 <h6>{{ post.title }}</h6>
-                                <p class="excerpt">
-                                    {{ post.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 200 }}
-                                </p>
                             </a>
                         </div>
                     </div>

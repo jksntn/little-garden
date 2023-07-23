@@ -5,8 +5,8 @@ thumbnail: /assets/img/portofolio/thumb-autopitstop.jpg
 description: Project Digital Marketing bengkel mobil di Jakarta Barat
 ---
 
-<div class="related-32">
-    <div class=".grid-2">
+<div class="grid-32">
+    <div class=".grid-1">
         <p>Project Autopitstop adalah project digital marketing yang saya kerjakan untuk sebuah bengkel mobil di Jakarta Barat. Saya mengerjakan mulai dari pembuatan website, pembuatan video konten, dan optimasi digital, seperti SEO, Google Business, dan Media Sosial Autopitstop.</p>
         <h3>Website</h3>
         <p>Websitenya sendiri saya develop menggunakan wordpress dan plugin elementor sebagai page buildernya. Hostingnya saya serahkan ke hostingan lokal saja.</p>
@@ -15,7 +15,7 @@ description: Project Digital Marketing bengkel mobil di Jakarta Barat
         <p>Selain website, saya juga mendevelop content video dan gambar untuk kebutuhan di media sosial dan Google Business.</p>
         <p>Konten videonya saya menggunakan konsep video vertikal yang menunjukkan kegiatan sehari-hari di bengkel, selain itu juga menampilkan beberapa showreel keadaan di bengkel.</p> 
     </div>
-    <div class=".grid-2">
+    <div class=".grid-1">
         <strong>Category:</strong><br>
         Web Development, Digital Marketing<br><br>
         <strong>Client:</strong><br>
