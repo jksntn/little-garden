@@ -1124,11 +1124,11 @@ a.box-feed:active {
   border-left: 5px solid var(--color-border-light);
 }
 .content ol {
-  list-style-position: inside;
+  list-style-position: outside;
   }
   .content ol:not([type]) {
     list-style-type: decimal;
-    padding-left: 0px; }
+    padding-left: 1.5rem; }
     .content ol:not([type]).is-lower-alpha {
       list-style-type: lower-alpha; }
     .content ol:not([type]).is-lower-roman {
@@ -1141,9 +1141,9 @@ ol p {
         display: contents;
     }      
 .content ul {
-  list-style: inside;
+  list-style: outside;
   margin-top: 1rem; 
-  padding-left: 0.4rem;
+  padding-left: 1.5rem;
   margin-block: 0;
 }
   .content ul ul {

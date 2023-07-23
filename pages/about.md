@@ -2,6 +2,8 @@
 layout: Post
 permalink: /about
 title: All About Me
+image: /assets/img/avatar2001.jpg
+description: Beberapa hal yang bisa anda ketahui mengenai saya (jksntn)
 ---
 
 <div class="grid-33">

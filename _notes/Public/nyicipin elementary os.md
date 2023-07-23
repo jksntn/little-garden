@@ -34,48 +34,27 @@ Jadi sebenernya saya bukan fulltimer pengguna Linux juga. Hanya sesekali aja ket
 
 Nah, mungkin banyak yang penasaran bagaimana cara beradaptasi dari yang sebelumnya pake Windows kemudian tiba-tiba menggunakan Linux? Saya akan jelasin beberapa aplikasi alternatif yang saya gunakan di Linux sebagai pengganti aplikasi yang biasa saya gunakan di Windows.
 
-### Office
+- **Office.** Kalau di Windows tentunya saya menggunakan Microsoft Office, di Linux saya menggunakan LibreOffice 7.5 yang udah lebih baik lagi. Tapi tentu saja format kedua aplikasi ini masih tidak flawless, maksudnya ketika dipindah edit, ada saja format tulisan yang berubah. Dan untuk spreadsheet tentu saja ada formula yang di excel jalan, di Libre office ga jalan. Tapi karena saya kebanyakan pake Google Docs buat kerjaan, jadi engga ada masalah formatting 😁.
 
-Kalau di Windows tentunya saya menggunakan Microsoft Office, di Linux saya menggunakan LibreOffice 7.5 yang udah lebih baik lagi. Tapi tentu saja format kedua aplikasi ini masih tidak flawless, maksudnya ketika dipindah edit, ada saja format tulisan yang berubah. Dan untuk spreadsheet tentu saja ada formula yang di excel jalan, di Libre office ga jalan. Tapi karena saya kebanyakan pake Google Docs buat kerjaan, jadi engga ada masalah formatting 😁.
+- **Vector Editing.** Di Linux saya menggunakan [Figma for Linux](https://github.com/Figma-Linux/figma-linux) (karena figma ga ada aplikasi resmi untuk linux), dan inkscape. Bahkan fitur inkscape labih banyak kepake buat saya semisal butuh tracing gambar jpeg ke vector. Sisanya buat bikin poster atau apapun saya malah seringnya bikin di Figma atau di Canva.
 
-### Vector Editing
+- **Image Editing.** Kalau di Windows kan biasanya pake Photoshop atau Affinity Photos, di Linux saya pake Gimp, dan ringannya luar biasa untuk editing kecil semacam hapus bg, manipulasi, dan editing simpel yang biasa saya lakukan, di gimp udah cukup banget. 
 
-Di Linux saya menggunakan [Figma for Linux](https://github.com/Figma-Linux/figma-linux) (karena figma ga ada aplikasi resmi untuk linux), dan inkscape. Bahkan fitur inkscape labih banyak kepake buat saya semisal butuh tracing gambar jpeg ke vector. Sisanya buat bikin poster atau apapun saya malah seringnya bikin di Figma atau di Canva.
+- **Video Editing.** Kalau di windows saya biasa pake Adobe Premiere dan Capcut, di Linux ada Kdenlive yang mirip banget workflow nya sama Premiere pro. Dan untuk animasi pendek saya malah pake Canva 🫣
 
-### Image Editing
+-  **Gaming.** Karena saya terbiasa gaming di windows pake steam, jadi pake steam di Linux juga udah cukup kok, apalagi karena ada project proton steam yang bikin game windows bisa dimainin dengan lancar di Steam Linux.
 
-Kalau di Windows kan biasanya pake Photoshop atau Affinity Photos, di Linux saya pake Gimp, dan ringannya luar biasa untuk editing kecil semacam hapus bg, manipulasi, dan editing simpel yang biasa saya lakukan, di gimp udah cukup banget. 
+- **XAMPP.** Kok dimasukin? Soalnya biar kamu tau aja, kalo pake xampp di Linux itu engga seenak pake di Windows. Sebenernya sih di linux udah bisa install satu-satu php, mysql, dan apache, tapi buat yang sering ganti-ganti php gitu dan ga mau mengubah/mempengaruhi sistem, kamu bisa pake [LocalWP](https://localwp.com/). Dan saya baru tau ini pas pindah ke elementaryOS 😅. 
 
-### Video Editing.
+- **Screenshots.** Nah ini soalnya kerjaan saya itu banyak membutuhkan screenshot. Kalau di Windows saya biasa pake [ShareX](https://getsharex.com/), kalo di elementaryOS saya pake bawaan OS nya aja, udah cukup fiturnya buat saya.
 
-Kalau di windows saya biasa pake Adobe Premiere dan Capcut, di Linux ada Kdenlive yang mirip banget workflow nya sama Premiere pro. Dan untuk animasi pendek saya malah pake Canva 🫣
+- **Clipboard Manager.** Nah ini kalo di windows kan bisa pake Win+V, kalo di linux itu ada banyak, dan biasanya di tiap DE udah ada fiturnya masing-masing. Kalau saya sendiri pake [CopyQ](https://hluk.github.io/CopyQ/). Udah sangat membantu karena kerjaan banyak fungsi copas-copas.
 
-### Gaming.
-Karena saya terbiasa gaming di windows pake steam, jadi pake steam di Linux juga udah cukup kok, apalagi karena ada project proton steam yang bikin game windows bisa dimainin dengan lancar di Steam Linux.
+- **PDF Reader.** Saya pake bawaan, dan enakan di Linux ketimbang di Windows. Windows sendiri ga punya pdf bawaan (malah pake Edge buat baca pdf), kalo di windows saya malah install SumatraPDF yang ringan. Kalo di Linux bawaannya udah enak banget.
 
-### XAMPP
+- **Ebook Management.** Untungya Calibre udah terenak dan terlengkap yang multiplatform juga. Jadi ga perlu cari alternatifnya lagi.
 
-Kok dimasukin? Soalnya biar kamu tau aja, kalo pake xampp di Linux itu engga seenak pake di Windows. Sebenernya sih di linux udah bisa install satu-satu php, mysql, dan apache, tapi buat yang sering ganti-ganti php gitu dan ga mau mengubah/mempengaruhi sistem, kamu bisa pake [LocalWP](https://localwp.com/). Dan saya baru tau ini pas pindah ke elementaryOS 😅. 
-
-### Screenshots
-
-Nah ini soalnya kerjaan saya itu banyak membutuhkan screenshot. Kalau di Windows saya biasa pake [ShareX](https://getsharex.com/), kalo di elementaryOS saya pake bawaan OS nya aja, udah cukup fiturnya buat saya.
-
-### Clipboard Manager
-
-Nah ini kalo di windows kan bisa pake Win+V, kalo di linux itu ada banyak, dan biasanya di tiap DE udah ada fiturnya masing-masing. Kalau saya sendiri pake [CopyQ](https://hluk.github.io/CopyQ/). Udah sangat membantu karena kerjaan banyak fungsi copas-copas.
-
-### PDF Reader.
-
-Saya pake bawaan, dan enakan di Linux ketimbang di Windows. Windows sendiri ga punya pdf bawaan (malah pake Edge buat baca pdf), kalo di windows saya malah install SumatraPDF yang ringan. Kalo di Linux bawaannya udah enak banget.
-
-### Ebook Management
-
-Untungya Calibre udah terenak dan terlengkap yang multiplatform juga. Jadi ga perlu cari alternatifnya lagi.
-
-### Note Taking
-
-The One and only yang saya pake yaitu Obsidian udah multiplatform, dan saya tinggal pake Github buat sync tulisan saya dari windows ke Linux. Jadi ga perlu cari alternatifnya lagi.
+- **Note Taking.** The One and only yang saya pake yaitu Obsidian udah multiplatform, dan saya tinggal pake Github buat sync tulisan saya dari windows ke Linux. Jadi ga perlu cari alternatifnya lagi.
 
 ~
 
