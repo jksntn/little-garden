@@ -5,4 +5,4 @@ feedformat: card
 title: Notes
 ---
 
-Opini, catatan yang terlintas di kepala, tips, trik, experience, dan progress project yang sedang dikerjakan. 
+##### Opini, catatan yang terlintas di kepala, tips, trik, experience, dan progress project yang sedang dikerjakan. 
