@@ -38,11 +38,14 @@ description: Beberapa hal yang bisa anda ketahui mengenai saya (jksntn)
         <li>Figma</li>
         <li>Adobe Family (Photoshop, Illustrator, Premiere, & After Effects)</li>
         <li>Affinity Serif (Photos, Designer)</li>
+        <li>Office Suite (Microsoft Word, Excel, Powerpoint and Google Docs, Slide, Sheet)</li>
         <li>Capcut</li>
         <li>HTML + CSS</li>
+        <li>Visual Studio Code</li>
         <li>Github</li>
         <li>Obsidian</li>
         <li>Excalidraw</li>
+        <li>Canva</li>
         </ul>
     </div>
     <div class=".grid-1">   
