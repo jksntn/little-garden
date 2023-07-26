@@ -8,7 +8,7 @@ Semalem saya ngedongeng gitu ke anak, soalnya dia ga mau tidur dan malah pengen 
 
 Akhirnya saya cerita horror waktu ikutan pramuka ketika SMA.
 
-Oiya anak saya berumur 7 tahun pas saya cerita ini.
+Oiya anak saya berumur 6 tahun pas saya cerita ini.
 
 Sebenernya ga mau cerita horror ke anak, soalnya sebisa mungkin dia ga takut sama hantu atau sebangsanya. Tapi gara-gara ga mau tidur yauda cerita aja. Jadi sebisa mungkin tidak ada 'hantu' di cerita tersebut, tapi tetep horror~
 

@@ -4,4 +4,4 @@ permalink: /projects
 title: All Projects
 ---
 
-##### Beberapa Project yang telah selesai saya kerjakan.
+##### Beberapa project yang pernah saya kerjakan.

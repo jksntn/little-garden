@@ -11,9 +11,6 @@ description: Project Digital Marketing bengkel mobil di Jakarta Barat
         <h3>Website</h3>
         <p>Websitenya sendiri saya develop menggunakan wordpress dan plugin elementor sebagai page buildernya. Hostingnya saya serahkan ke hostingan lokal saja.</p>
         <p>Karena pembuatan website ini based on template yang sudah ada, jadi saya membuatnya tidak perlu lama. Total pengerjaan mulai dari pembelian domain, setup hosting, dan web develnya sekitar dua mingguan.</p>
-        <h3>Creative Content</h3>
-        <p>Selain website, saya juga mendevelop content video dan gambar untuk kebutuhan di media sosial dan Google Business.</p>
-        <p>Konten videonya saya menggunakan konsep video vertikal yang menunjukkan kegiatan sehari-hari di bengkel, selain itu juga menampilkan beberapa showreel keadaan di bengkel.</p> 
     </div>
     <div class=".grid-1">
         <strong>Category:</strong><br>
@@ -29,6 +26,13 @@ description: Project Digital Marketing bengkel mobil di Jakarta Barat
 
 <img src="/assets/img/portofolio/autopitstop1.jpg" />
 
-<img src="/assets/img/portofolio/autopitstop2.jpg" />
 
-<img src="/assets/img/portofolio/autopitstop3.jpg" />
+<div class="grid-32">
+    <div class=".grid-1">
+        <h3>Creative Content</h3>
+        <p>Selain website, saya juga mendevelop content video dan gambar untuk kebutuhan di media sosial dan Google Business.</p>
+        <p>Konten videonya saya menggunakan konsep video vertikal yang menunjukkan kegiatan sehari-hari di bengkel, selain itu juga menampilkan beberapa showreel keadaan di bengkel.</p> 
+    </div>
+    <div class=".grid-1">
+    </div>
+</div>
