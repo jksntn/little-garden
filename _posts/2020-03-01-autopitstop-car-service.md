@@ -2,7 +2,7 @@
 title: Autopitstop Car Service
 image: /assets/img/portofolio/thumb-autopitstop.jpg
 thumbnail: /assets/img/portofolio/thumb-autopitstop.jpg
-description: Project Digital Marketing bengkel mobil di Jakarta Barat
+description: Project creative bengkel mobil di Jakarta Barat
 ---
 
 <div class="grid-32">
