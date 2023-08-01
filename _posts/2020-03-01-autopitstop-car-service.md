@@ -26,6 +26,8 @@ description: Project creative bengkel mobil di Jakarta Barat
 
 <img src="/assets/img/portofolio/autopitstop1.jpg" />
 
+<img src="/assets/img/portofolio/autopitstop2.jpg" />
+
 
 <div class="grid-32">
     <div class="grid-1">
