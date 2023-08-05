@@ -1,7 +1,7 @@
 ---
 title : Supaya Tidak Membajak Buku
 feed: show
-date : 21-06-2023
+date : 21-06-2021
 ---
 
 ![](assets/img/Pasted%20image%2020230805175737.png)
