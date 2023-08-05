@@ -2,6 +2,8 @@
 title : Marketing Lewat Influencer, Case @hrdbacot
 feed: show
 date : 11-10-2020
+description : Case marketing lewat influencer dengan contoh yang dilakukan @hrdbacot
+image: /assets/img/Pasted%20image%2020230805171806.png
 ---
 
 ![](assets/img/Pasted%20image%2020230805171806.png)

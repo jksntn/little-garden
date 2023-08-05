@@ -2,6 +2,7 @@
 title : Menghapus Link Dari Google Search
 feed: show
 date : 4-11-2020
+description: Cara menghapus link dari mesin pencari Google   
 ---
 
 ![](assets/img/Pasted%20image%2020230805185259.png)

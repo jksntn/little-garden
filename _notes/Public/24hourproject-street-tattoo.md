@@ -1,7 +1,9 @@
 ---
 title : 24 Hour Project Street Tattoo
-feed: show
+feed : show
 date : 27-08-2017
+description : Salah satu foto terbaik saya di 24 Hour Project 2017
+image: /assets/img/portofolio/24hourproject2.jpg
 ---
 
 ![](/assets/img/portofolio/24hourproject2.jpg)

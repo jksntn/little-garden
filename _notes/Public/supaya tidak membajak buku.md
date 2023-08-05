@@ -2,6 +2,8 @@
 title : Supaya Tidak Membajak Buku
 feed: show
 date : 21-06-2021
+description: Sebuah tips supaya anda tidak perlu membajak buku lagi
+image: /assets/img/Pasted%20image%2020230805175737.png
 ---
 
 ![](assets/img/Pasted%20image%2020230805175737.png)
