@@ -42,7 +42,7 @@ Jangan terkecoh lagi ya gaes. 😉
 
 Etis engga etis sebenernya menurut saya sah-sah saja akun tersebut melakukan iklan, karena tujuan dari munculnya akun tersebut adalah jasa konten gratis, kontennya mengenai dunia perkantoran dari sisi HRD, yang sebelumnya belum pernah ada yang bahas. Jadi ya memang ga aneh kalo nantinya akun tersebut melakukan iklan terus.
 
-Cuman ada baiknya dikasi disclaimer supaya orang-orang paham ini tuh lagi ngiklan. Ya semacam fan service sih. Seperti yang dilakukan Pandji Pragiwaksono dengan menambahkan hastag #spon pada tweet, ig post, podcast, dan blognya.
+Cuman ada baiknya dikasi disclaimer supaya orang-orang paham ini tuh lagi ngiklan. Ya semacam fan service sih. Seperti yang dilakukan Pandji Pragiwaksono dengan menambahkan hastag `#spon` pada tweet, ig post, podcast, dan blognya.
 
 Tapi ga ada juga terserah mereka sih.
 
