@@ -4,7 +4,7 @@ feed: show
 date : 11-10-2020
 ---
 
-![[Pasted image 20230805165930.png]]
+![](assets/img/Pasted%20image%2020230805171806.png)
 
 Di tulisan digital marketing pertama saya di blog ini, saya mau membahas sesuatu yang sedang terjadi di Twitter, yaitu menggunakan akun besar seperti [@hrdbacot](https://twitter.com/hrdbacot) sebagai channel marketingnya Samsung smartphone Indonesia.
 
@@ -26,10 +26,10 @@ Singkatnya adalah ada seseorang mungkin followers yang menanyakan (via DM) apaka
 
 Kemudian DM tersebut dikomentarin seperti konten-konten biasanya oleh @hrdbacot. Dan setelah postingan itu, beberapa menit kemudian dipostlah konten iklannya.
 
-![[Pasted image 20230805170206.png]]
+![](assets/img/Pasted%20image%2020230805171827.png)
 _Twit DM followers yang nanya_
 
-![[Pasted image 20230805170218.png]]
+![](assets/img/Pasted%20image%2020230805171835.png)
 _Twit Pertanyaan dan Twit Iklan_
 
 Cara ini cukup berhasil, walaupun targetnya bukan penjualan (mungkin), setidaknya ribuan followers @hrdbacot terkecoh dengan tipe tweet tersebut, dan banyak yang reply dengan memberikan suggestion/saran gratis kepada akun tersebut.

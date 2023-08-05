@@ -4,7 +4,6 @@ feed: show
 date : 13-03-2023
 ---
 
-
 Ini sebenernya cerita cukup lama, mungkin sekitar tahun 2017.
 
 Jadi ceritanya pada hari itu di rumah saya mau ada acara Arisan keluarga dari Istri. Jadilah pagi itu saya sibuk banget beres-beres, dan juga udah ada beberapa orang saudara yang bantuin.
