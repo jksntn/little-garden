@@ -5,8 +5,7 @@
 ## Credits & Thanks
 -  See [Credits page](https://jekyll-garden.github.io/credits)
 -  [Demo website](https://jekyll-garden.github.io/)
--  [Personal Website](https://hiran.in/)
--  [Feature List](https://jekyll-garden.github.io/post/features)
+-  [Hiran](https://hiran.in/)
 
 ## Installation
 
