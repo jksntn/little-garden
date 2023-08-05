@@ -28,4 +28,4 @@ Ceilah 😎.
 
 Belakangan saya baru tau kalau dia itu Ketua RT di situ...
 
-Baca juga cerita saya tentang [[Horror Jurit Malam]]
+Baca juga cerita saya tentang
