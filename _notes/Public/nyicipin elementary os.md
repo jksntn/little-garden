@@ -6,7 +6,7 @@ description: Pengalaman nyobain Elementary OS 7
 image: /assets/img/elementaryos.jpeg
 ---
 
-<img src="/assets/img/elementaryos.jpeg" />
+![](/assets/img/elementaryos.jpeg)
 
 Buat yang belum tau, [elementaryOS 7](https://en.wikipedia.org/wiki/Elementary_OS) ini Linux/GNU. Dia termasuk turunan dari Ubuntu LTS. Makanya package managernya pake APT. Dan Desktop Environtmentnya (DE) masih setia menggunakan [Pantheon](https://en.wikipedia.org/wiki/Elementary_OS#Pantheon_desktop_environment), bukan gnome atau KDE gitu.
 
