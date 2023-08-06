@@ -1,5 +1,5 @@
 ---
-title : Gear Acquisition Syndrome (GAS)
+title : Gear Acquisition Syndrome
 feed: show
 date : 10-07-2017
 description: Alasan mengapa GAS berbahaya buat fotografer

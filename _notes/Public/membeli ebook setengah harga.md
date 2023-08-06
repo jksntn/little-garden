@@ -52,6 +52,6 @@ Mungkin yang jadi pertanyaan selanjutnya adalah. Kamu pikir buku-buku tersebut h
 
 Masih Bisa dipindah kok!
 
-Buku yang kamu beli di [Google Play Store](https://play.google.com/store/books) dan [Kobo.com](https://kobo.com/) bisa kamu pindahkan kok ke Ebook Reader. Caranya akan saya jelaskan di artikel [[cara transfer ebook drm]]
+Buku yang kamu beli di [Google Play Store](https://play.google.com/store/books) dan [Kobo.com](https://kobo.com/) bisa kamu pindahkan kok ke Ebook Reader. Caranya akan saya jelaskan di artikel [[Cara Transfer eBook DRM]]
 
 Selamat membaca!

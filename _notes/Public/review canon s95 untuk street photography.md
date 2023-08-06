@@ -20,7 +20,7 @@ Sebenarnya kamera *point and shoot* yang saya incar adalah kamera Panasonic Lumi
 
 Kalau saya lihat sekilas memang pada LX5 terdapat *hot soe* untuk menggunakan flash external. Kelebihan yang sekilas terlihat juga ada pada maksimal *shutter* speednya, yaitu 1/4000, jika dibandingkan dengan Canon S95 yang hanya 1/1600, tentu dengan kecepatan segitu kita engga kehilangan momen memotret kalau pake LX5. Tapi saya tidak bisa bilang LX5 kamera yang nyaman bagi saya memotret *street photography*, karena saya belum pernah mencobanya.
 
-Bisa dikatakan saya terjangkit [[gear acquisition syndrome]] dengan membeli Canon S95 ini (walaupun membeli yang bekas). Karena sebenarnya saya memiliki iPhone 5 yang sudah cukup mumpuni untuk memotret *street photography*. Namun karena memang kelemahan utama *smartphone* saya itu adalah baterai, maka mau tak mau saya perlu mencari kamera pengganti. Setelah berGAS-GAS ria, akhirnya pilihan saya jatuh pada Canon S95 ini.
+Bisa dikatakan saya terjangkit [[Gear Acquisition Syndrome]] dengan membeli Canon S95 ini (walaupun membeli yang bekas). Karena sebenarnya saya memiliki iPhone 5 yang sudah cukup mumpuni untuk memotret *street photography*. Namun karena memang kelemahan utama *smartphone* saya itu adalah baterai, maka mau tak mau saya perlu mencari kamera pengganti. Setelah berGAS-GAS ria, akhirnya pilihan saya jatuh pada Canon S95 ini.
 
 Membeli kamera Canon S95 ini menjadi taruhan yang lumayan besar juga, karena saya tidak punya referensi mengenai kamera ini untuk memotret *street photography*, bahkan tidak ada teman atau kenalan supaya saya bisa mencoba kamera ini untuk memotret, terutama untuk memotret *street photography*.
 

@@ -12,7 +12,7 @@ Maksudnya saya kumpulkan adalah, buku-buku digital yang saya beli tersebut saya 
 
 Tidak hanya store yang banyak, bahkan GPB (google play books) pun saya punya dua akun, store Indonesia dan India. Yang India tujuannya buat mendapatkan ebook dengan harga yang sangat murah. Cara membuat akun di store India-nya saya jelaskan di tulisan ini: 
 
-- [[membeli ebook setengah harga]].
+- [[Membeli Ebook Setengah Harga]].
 
 Semua buku tersebut saya kumpulkan di GPB akun store India saya.
 

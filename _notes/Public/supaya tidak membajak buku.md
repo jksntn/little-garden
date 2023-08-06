@@ -50,7 +50,7 @@ Btw @hzboy ini juga sering banget ngetwit yang berhubungan dengan buku, komunita
 
 ## Beli eBook 👌
 
-Supaya bisa membeli buku dengan harga yang lebih terjangkau, kamu bisa membeli buku (ebook) karena sering sekali ada diskonan, bahkan kamu bisa [[membeli ebook setengah harga]]. Namun kebanyakan buku yang didiskon murah ini adalah buku-buku luar yang belum diterjemahkan. Rekomendasi toko online yang suka kasi harga miring:
+Supaya bisa membeli buku dengan harga yang lebih terjangkau, kamu bisa membeli buku (ebook) karena sering sekali ada diskonan, bahkan kamu bisa [[Membeli Ebook Setengah Harga]]. Namun kebanyakan buku yang didiskon murah ini adalah buku-buku luar yang belum diterjemahkan. Rekomendasi toko online yang suka kasi harga miring:
 
 -   [Amazon Kindle Store](https://www.amazon.com/Kindle-Store/b?ie=UTF8&node=133140011)
 -   [Google Play Books](https://play.google.com/store/books?)
