@@ -50,8 +50,5 @@ Shutterlag pasti dimiliki setiap *smartphone*—yang bagus sekalipun. Shutterlag
 
 Bagaimana cara kita mencoba kamera *smartphone* yang tidak kita miliki? Cobalah pada *smartphone* teman anda, atau pada toko elektronik yang menaruh *smartphone* asli di display tokonya. Lebih baik tidak terburu-buru karena harga *smartphone* yang murah tapi megapikselnya besar, daripada nantinya anda malah menyesal.
 
-## Bacaan Lebih Lanjut
-
--   [7 Benefits of Shooting Street Photography With a Smartphone](http://erickimphotography.com/blog/2015/07/08/the-benefits-of-street-photography-with-a-smartphone/)
--   [3 Reasons Why You Should Use the iPhone 5 For Street Photography by Mike Avina](http://erickimphotography.com/blog/2012/10/11/3-reasons-why-you-should-use-the-iphone-5-for-street-photography-by-mike-avina/)
--   [PHOTOGRAPHY – THE PASSIONATE JOURNEY](http://oggsie.com/blog/13536202/the-passionate-journey)
+### Video menarik yang bisa ditonton terkait megapiksel bukanlah segalanya:
+- [[Crop Sensors vs Full Frame]]
