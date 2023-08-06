@@ -30,7 +30,9 @@ Nah udah selesai cerita gitu, tiba-tiba anak saya nyeletuk: Naura juga ada cerit
 
 Apaaa?🤯
 
-Horror gimana naura? Dia cerita pas mau pulang gitu dan mau ngambil sepatu (posisi sendirian) dia kaget pas lagi mau ke tempat rak sepatu, dia bilang di situ ada....
+Horror gimana naura? Dia cerita pas mau pulang gitu dan mau ngambil sepatu (posisi sendirian) dia kaget pas lagi mau ke tempat rak sepatu.
+
+Dia bilang di situ ada....
 
 Saya udah merinding banget dengernya. 
 
@@ -38,7 +40,9 @@ Ada apaan???? 😱 Udah kaget bener dalem ati.
 
 Ternyata ada kecoa 🪳😓
 
-Kok kecoa horror? 😅. Ya buat Naura kecoa itu horror, katanya~
+Kok kecoa horror? 😅
+
+Ya buat Naura kecoa itu horror, katanya~
 
 😓
 
