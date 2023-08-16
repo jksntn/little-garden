@@ -46,6 +46,6 @@ Ya buat Naura kecoa itu horror, katanya~
 
 😓
 
-~
+---
 
 Sekian, semoga terhibur 🤭

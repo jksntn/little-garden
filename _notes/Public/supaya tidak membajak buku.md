@@ -70,6 +70,6 @@ Padahal baca buku bajakan itu engga banget sih, dan harusnya pihak marketplace j
 
 **Notes:** Cara mudah untuk membedakan mana buku bajakan dan asli adalah dengan memperhatikan harganya, apabila dijual murah banget (padahal buku baru), baik itu di online maupun offline, kita bisa skeptis kalau ini adalah buku bajakan. Yang kedua adalah kualitasnya, biasanya buku bajakan cetakannya jelek banget, dan kertasnya juga terasa berbeda dengan yang digunakan oleh penerbit biasanya.
 
-~
+---
 
 Semoga dengan adanya tulisan ini lebih memacu lagi orang-orang buat tidak membeli buku bajakan dan bisa membeli buku yang diinginkannya 🙏.

@@ -538,10 +538,16 @@ tbody tr:nth-child(even) {
 }
 
 hr {
-    background-color: var(--color-border-light);
-    border: 0 none;
-    height: 1px;
-    margin-top: 2rem 0 0 0;
+    margin: 1.25em 0 1.25em 0;
+    border: 0;
+    text-align: center;
+    letter-spacing: 1em;
+    
+    &:before {
+      content: "\2022 \2022 \2022";
+      font-size: 14px;
+      color: #999999;
+    }
 }
 
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/

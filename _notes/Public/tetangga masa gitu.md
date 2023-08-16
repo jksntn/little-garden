@@ -24,8 +24,6 @@ Selang beberapa menit setelah saya marah-marah, si bapak itu akhirnya bilang mau
 
 Ceilah 😎.
 
-~
+---
 
 Belakangan saya baru tau kalau dia itu Ketua RT di situ...
-
-Baca juga cerita saya tentang
