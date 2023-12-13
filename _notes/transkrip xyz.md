@@ -1,5 +1,5 @@
 ---
-title : Transkrip xyz
+title: Transkrip xyz
 feed: hide
-date : 5-08-2023
+date: 5-08-2023
 ---
