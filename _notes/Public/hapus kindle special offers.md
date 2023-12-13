@@ -1,6 +1,6 @@
 ---
 title: Hapus Kindle Special Offers
-feed: hide
+feed: show
 date: 10-12-2023
 description: Cara saya menghapus special offersnya Amazon di Kindle Basic saya.
 image: /assets/img/Pasted%20image%2020231213175350.png
