@@ -20,14 +20,11 @@ description: Beberapa hal yang bisa anda ketahui mengenai saya (jksntn)
         <p>Anda bisa bertanya sesuatu mengenai tulisan saya atau misalnya ada project yang bisa dikolaborasiin ke saya, mungkin. Hubungi saya di:</p>
         <p>
             <a href="https://twitter.com/jksntn/">Twitter @jksntn</a><br>
-            <a href="https://www.instagram.com/jksntn/">Instagram @jksntn</a><br>
-            <a href="https://www.threads.net/@jksntn/">Threads @jksntn</a><br>
-            <a href="https://www.linkedin.com/in/jakasantana/">Linkedin Jaka Santana</a>
         </p>
     </div>
     <div class="grid-1">
         <h3>Portrait</h3>
-        <img src="/assets/img/avatar2001.jpg" />
+        <img src="/assets/img/kangjaka.jpg" />
     </div>
 </div>
 
