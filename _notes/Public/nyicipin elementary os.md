@@ -56,7 +56,7 @@ Nah, mungkin banyak yang penasaran bagaimana cara beradaptasi dari yang sebelumn
 
 - **Note Taking.** The One and only yang saya pake yaitu Obsidian udah multiplatform, dan saya tinggal pake Github buat sync tulisan saya dari windows ke Linux. Jadi ga perlu cari alternatifnya lagi.
 
-~
+---
 
 Untuk beberapa aplikasi yang sudah multiplatform sebenernya udah banyak yang udah support Linux. Seperti Zoom, VSCode, Steam, VLC, Calibre, Chrome/Brave, Spotify, Anydesk, Obsidian, dan banyak lagi. Jadi ga perlu cari alternatifnya lagi.
 
